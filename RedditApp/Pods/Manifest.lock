@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (4.3.0)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - FBSDKCoreKit (4.18.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.18.0):
+    - FBSDKCoreKit
+  - FBSDKShareKit (4.18.0):
+    - FBSDKCoreKit
+  - Gloss (1.2.0)
+  - KeychainSwift (7.0.0)
+  - SQLite.swift (0.11.2):
+    - SQLite.swift/standard (= 0.11.2)
+  - SQLite.swift/standard (0.11.2)
+  - SwiftGifOrigin (1.6.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - FBSDKShareKit
+  - Gloss
+  - KeychainSwift
+  - SQLite.swift (~> 0.11.2)
+  - SwiftGifOrigin
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  FBSDKCoreKit: 15fef8804a4629f98c6f4e55e81a76c9d725d85e
+  FBSDKLoginKit: 6773073e970b2b15fb12e451ce7f11da0532b880
+  FBSDKShareKit: 0b8d6cc3f103c75297eb3c62caec284a2ccf1b9e
+  Gloss: ec49584b2e8144e39810b6db6285433316e0c1c7
+  KeychainSwift: b6947435dd78cc442c64a84ae648dd0e871cf448
+  SQLite.swift: 670c3e9e0a806bbfd56a3de5d530768dc0e6fe7c
+  SwiftGifOrigin: d6679d3ebe9df2e049a84bc52582635107b581f6
+
+PODFILE CHECKSUM: 0ec4e1bfcf2a3631c4595c6f2e1db90bd254c124
+
+COCOAPODS: 1.0.0
